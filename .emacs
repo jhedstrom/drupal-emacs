@@ -45,7 +45,7 @@
 (require 'saveplace)
 (require 'recentf)
 (require 'anything-config)
-(require 'http-get)
+;;(require 'http-get)
 
 (eval-after-load "menu-bar" '(require 'menu-bar+))
 
