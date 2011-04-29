@@ -71,7 +71,8 @@
 
 (autoload 'hideshowvis-enable "hideshowvis" "Highlight foldable regions")
 
-
+;; -- Geben
+(autoload 'geben "geben" "PHP Debugger on Emacs" t)
 
 ;; ----------------------------------------------------------- system spec
 
